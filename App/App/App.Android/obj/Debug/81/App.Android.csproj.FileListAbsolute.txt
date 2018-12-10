@@ -102,6 +102,8 @@ C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\android\assets\System.Xml.pdb
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\bin\Debug\netstandard2.0\App.dll
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\bin\Debug\App.dll.mdb
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\linksrc\App.dll.mdb
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

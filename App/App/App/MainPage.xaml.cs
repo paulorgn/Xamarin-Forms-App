@@ -13,5 +13,15 @@ namespace App
         {
             InitializeComponent();
         }
+
+        void webOnNavigating(object sender, WebNavigatingEventArgs e)
+        {
+            LoadingLabel.IsVisible = true;
+        }
+
+        void webOnEndNavigating(object sender, WebNavigatedEventArgs e)
+        {
+            LoadingLabel.IsVisible = false;
+        }
     }
 }
