@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\bin\Debug\netstandard2.0\App.deps.json
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\bin\Debug\netstandard2.0\App.dll
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\bin\Debug\netstandard2.0\App.pdb
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.dll
+C:\Users\Paulo\Documents\GitHub\Xamarin-Forms-App\App\App\App\obj\Debug\netstandard2.0\App.pdb
